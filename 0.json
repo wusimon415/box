@@ -1,24 +1,24 @@
 {
   "urls": [
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/hl128k/tvbox/blob/main/tv/0/0821.json",
-      "name": "FAN No.1"
+      "url": "https://ghproxy.net/https://github.com/hl128k/tvbox/blob/main/tv/0/0821.json",
+      "name": "0821"
     },
     {
-      "url": "https://ghproxy.net/https://github.com/ziyongdaima/dmbj/blob/main/TVB.json",
-      "name": "FAN TVB"
+      "url": "https://ghproxy.net/https://github.com/hl128k/tvbox/blob/main/tv/0/0825.json",
+      "name": "0825"
     },
     {
-      "url": "https://ghproxy.net/https://github.com/samisold/TvboxJarMod/blob/main/conf/fan.json",
-      "name": "饭太硬"
+      "url": "https://ghproxy.net/https://github.com/hl128k/tvbox/blob/main/tv/0/0826.json",
+      "name": "0826"
     },
     {
       "url": "https://ghproxy.net/https://github.com/samisold/TvboxJarMod/blob/main/conf/feimao.json",
-      "name": "肥猫"
+      "name": "feimao"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/hl128k/tvbox/blob/main/tv/0/js.json",
-      "name": "FAN JS"
+      "url": "https://ghproxy.net/https://github.com/hl128k/tvbox/blob/main/tv/0/js.json",
+      "name": "JS"
     },
     {
       "url": "https://pastebin.com/raw/5NHaxyGR",
