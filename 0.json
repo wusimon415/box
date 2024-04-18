@@ -13,6 +13,10 @@
       "name": "FTY"
     },
     {
+      "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+      "name": "TW"
+    },
+    {
       "url": "https://ghproxy.net/https://github.com/hl128k/tvbox/blob/main/tv/0/js.json",
       "name": "JS"
     },
