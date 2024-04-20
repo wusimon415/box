@@ -10,11 +10,11 @@
     },
     {
       "url": "http://www.饭太硬.top/tv/",
-      "name": "FTY"
+      "name": "饭太硬"
     },
     {
       "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
-      "name": "TW"
+      "name": "天微"
     },
     {
       "url": "https://ghproxy.net/https://github.com/hl128k/tvbox/blob/main/tv/0/js.json",
@@ -22,15 +22,15 @@
     },
     {
       "url": "http://xhww.fun/小米/DEMO.json",
-      "name": "XM"
+      "name": "小米"
     },
     {
       "url": "https://ghproxy.net/https://github.com/ziyongdaima/dmbj/raw/main/YSC.json",
       "name": "YSC"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/qist/tvbox/blob/master/9918.json",
-      "name": "18"
+      "url": "http://bp.tvbox.cam/",
+      "name": "小白"
     }
   ]
 }
