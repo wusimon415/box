@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/0821.json",
-      "name": "0821"
-    },
-    {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/0825.json",
       "name": "PG"
     },
