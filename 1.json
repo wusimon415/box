@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "url": "http://xhww.fun/小米/DEMO.json",
+      "name": "小米"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/0825.json",
+      "name": "PG"
+    },
+    {
+      "url": "http://ok321.top/tv",
+      "name": "OK"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json",
+      "name": "SB"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://github.com/ziyongdaima/dmbj/raw/main/YSC.json",
+      "name": "YSC"
+    },
+  ]
+}
