@@ -1,8 +1,20 @@
 {
   "urls": [
     {
+      "url": "http://fan.888484.xyz/tv",
+      "name": "FTY"
+    },
+    {
       "url": "http://xhww.fun/小米/DEMO.json",
-      "name": "小米"
+      "name": "XM"
+    },
+    {
+      "url": "http://我不是.肥猫.live/接口禁止贩卖",
+      "name": "FM"
+    },
+    {
+      "url": "https://神器每日推送.tk/pz.json",
+      "name": "SQ"
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/0825.json",
